@@ -1,0 +1,96 @@
+body {
+    background-image: url(img/images.jpg);
+    background-size: cover;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#website-header {
+    text-align: right;
+    color: rgba(14, 65, 112, 0.767);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.formdivision {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 25px goldenrod;
+    background-color: rgba(0, 0, 0, 0.705);
+    border-radius: 40px;
+    color: black;
+    margin-top: 50px;
+}
+
+#headerform {
+    color: white;
+    padding-top: 20px;
+}
+
+#inquiries {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.932);
+    padding-top: 10px;
+    padding-bottom: 60px;
+    border-radius: 0px 0px 40px 40px;
+}
+
+.form-identity {
+    border: 0px solid transparent;
+    font-size: 14px;
+    background: transparent;
+}
+
+.form-element-bar {
+    height: 1px;
+    background: rgba(0, 0, 0, 0.555);
+    width: 250px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+.form-info {
+    float: left;
+    margin-left: 147px;
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.562);
+    font-style: italic;
+}
+
+#button {
+    font-size: 20px;
+    background-color: rgb(212, 22, 22);
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px rgb(255, 217, 0);
+    margin-top: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+#result {
+    float: left;
+    font-size: 12px !important;
+    text-align: justify !important;
+    padding: 20px;
+    font-weight: bold !important;
+}
+#space-info {
+    color: rgba(0, 0, 0, 0.568);
+    font-style: italic;
+}
+
+#footer {
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    bottom: 0px;
+    position: fixed;
+    margin: auto;
+    padding: 17.5px 0px 17.5px 0px;
+    width: 100%;
+    left: 0px;
+}
